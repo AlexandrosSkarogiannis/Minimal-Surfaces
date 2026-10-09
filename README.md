@@ -1,1 +1,2 @@
 # Minimal-Surfaces
+The paper deals with minimal surfaces. Initially, there is a reference to the theory of curves, where basic definitions and theorems are presented. Then, after reviewing topics in surface theory (shape operator, mean curvature, Gauss curvature), we present the Plateau problem. Additionally, a relationship between minimal surfaces and ruled surfaces is presented. Finally, the Weierstrass-Enneper representation is defined, which allows for the easy construction of minimal surfaces.
